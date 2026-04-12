@@ -2,3 +2,7 @@
 restored.jsonl
 *.lmpi
 /target/
+*.py
+*.jsonl
+*.txt
+*.bin
